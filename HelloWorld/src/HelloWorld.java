@@ -5,5 +5,6 @@ public class HelloWorld {
 		System.out.println("HelloWorld");
 		System.out.println("HelloMaster");
 		System.out.println("HelloBranch");
+		System.out.println("Hello Master2");
 	}
 }
